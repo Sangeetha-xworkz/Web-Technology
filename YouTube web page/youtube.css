@@ -1,0 +1,103 @@
+
+.header{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 70px;
+   padding: 15px;
+}
+
+
+.header-left{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+.header-left img{
+    height: 70px;
+    width: 100px;
+    margin-left: 15px;
+    
+}
+
+.header i{
+    padding: 0px 7px;
+    cursor: pointer;
+}
+
+.header-search form{
+    height: 40px;
+    margin-right: 400px;
+    padding: 5px;
+    display: flex;
+}
+
+.header-search input{
+    width: 600px;
+    padding: 10px;
+    margin: 0;
+    border-radius:10px;
+}
+
+.header-search button{
+    padding: 0;
+    margin-right:0;
+    border-radius: 10px;
+}
+.fa-microphone{
+    font-size: 32px;
+    border: solid 2px lightgoldenrodyellow;
+    border-radius: 12px;
+    background-color:lightgoldenrodyellow;
+    margin-left: 10px;
+}
+
+.header-icon {
+    padding: 0;
+    margin-right:0;
+    border: none;
+    border-radius: 0;
+    font-size: 30px;
+}
+
+.videos{
+    margin-left: 20px;
+}
+.sub{
+    border: solid 10px;
+    border-radius: 20px;
+    margin-top: -48px;
+    margin-right: 1300px;
+}
+.fa-thumbs-up{
+    font-size: 40px;
+    margin-left: 760px;
+    border: solid 4px black;  
+    padding: 5px; 
+    border-radius: 20px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ;
+}
+
+.fa-thumbs-down{
+    font-size: 40px;
+    margin-left: 0;
+    border: solid 4px black;
+    padding: 5px;      
+    border-radius: 20px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ;
+}
+
+.fa-share{
+    font-size: 40px;
+    margin-left:40px ;
+    border: solid 4px black;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.imgs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -630px;
+}
+
